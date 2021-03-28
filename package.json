@@ -1,6 +1,6 @@
 {
   "name": "@deesynertz/my-package",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "nodesc",
   "main": "index.js",
   "scripts": {

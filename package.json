@@ -1,0 +1,20 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "nodesc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deesynertz/my-package.git"
+  },
+  "keywords": [],
+  "author": "deesynertz <axetrixhub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deesynertz/my-package/issues"
+  },
+  "homepage": "https://github.com/deesynertz/my-package#readme"
+}
